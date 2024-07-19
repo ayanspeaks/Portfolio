@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Full-Stack Developer Training",
+      "organisation": "NullClass",
+      "startDate": "Dec, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": ["Actively participated in a MERN stack project, gaining practical expreience in MongoDB, Express, React and Node development.", "Developed and deployed web app"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Web Developer Intern",
+      "organisation": "Nexel Technologies",
+      "startDate": "Mar, 2023",
+      "endDate": "May, 2023",
+      "experiences": ["Supported a dynamic development team in builiding web applications using foundational technologies like HTML, CSS, and JavaScript, with exposure to React, collaborating with 8 team members and increasing overall project efficiency by 20%.", "Assisted in backend development tasks using Node.js and Express, gaining insights into server-side programming and RESTful APIs."],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Business Developer Intern",
+      "organisation": "Beforv",
+      "startDate": "May, 2024",
+      "endDate": "Jul, 2024",
+      "experiences": [
+        "Worked on Power BI and Tableau",
+        "Contributed in create responsive dashboard for business insights"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]

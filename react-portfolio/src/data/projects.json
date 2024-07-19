@@ -1,0 +1,42 @@
+[
+  {
+    "title": "DreamMaker",
+    "imageSrc": "projects/project.png",
+    "description": "Full-stack event manager app using MERN.",
+    "skills": ["ReactJS", "Tailwind CSS", "NodeJS", "ExpressJS", "Google Maps API", "Netlify", "Render", "MongoDB"],
+    "demo": "https://dream-maker-ayanspeaks.netlify.app/",
+    "source": "https://github.com/ayanspeaks/EventManager_Backend"
+  },
+  {
+    "title": "Food-o-Phile",
+    "imageSrc": "projects/project.png",
+    "description": "Full-stack project pf a restaurant outlet MERN project.",
+    "skills": ["ReactJS", "JavaScript", "NodeJS", "ExpressJS", "Netlify", "Render", "MongoDB"],
+    "demo": "https://food-o-phile-ayans.netlify.app/",
+    "source": "https://github.com/ayanspeaks/foodophile-backend"
+  },
+    {
+      "title": "NotesHub",
+      "imageSrc": "projects/project.png",
+      "description": "This is an advanced notes management app with CRUD functionality.",
+      "skills": ["ReactJS", "Tailwind CSS", "TypeScript", "Material UI", "Evernote API", "Netlify"],
+      "demo": "https://advancednoteshub.netlify.app/",
+      "source": "https://github.com/ayanspeaks/Notes_taking_app"
+    },
+    {
+      "title": "MyBudget",
+      "imageSrc": "projects/project.png",
+      "description": "This is an exclusivce ReactJS project made to keep a track of all the expenses we do in our daily life.",
+      "skills": ["ReactJS", "JavaScript", "Material UI", "Bootstrap", "VS Code"],
+      "demo": "https://expensetrackerayans.netlify.app/",
+      "source": "https://github.com/ayanspeaks/react-expenseTracker"
+    },
+    {
+      "title": "Data analysis - HR analytics dashboard",
+      "imageSrc": "projects/project.png",
+      "description": "This is a data analtics project for a overview of a company in annual basis from the point of view of HR manager.",
+      "skills": ["SQL", "Data cleaning", "Excel", "Power BI"],
+      "demo": "https://github.com/ayanspeaks/HR_Analytics-Project/blob/main/HR%20Analytics%20Project.pdf",
+      "source": "https://github.com/ayanspeaks/HR_Analytics-Project"
+    }
+  ]
